@@ -1,12 +1,11 @@
-- 👋 Hi, I’m Tom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1>Hi, I'm Tom, an <a href="https://https://www.linkedin.com/in/thetomcruz/">IT Professional</a>☺</h1>
 
-<!---
-Tomcruztech/Tomcruztech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Tomcruztech/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Tomcruztech/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Tomcruztech/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
